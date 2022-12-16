@@ -116,5 +116,5 @@ All programs and functions were compiled with `gcc 4.8.4` using flags `-Wall -We
 All files have been written in the Betty Style.
 
 ## Authors
-**Obed Ehoneah** - [Github](https://github.com/ehoneahobed) [ehoneahobed@hotmail.com](mailto:ehoneahobed@hotmail.com)
-**Topman Paul-Dike** - [Github](https://github.com/tpauldike) [topman4loveworld@yahoo.com](mailto:topman4loveworld@yahoo.com)
+**Gideon Etokebe** - [Github](https://github.com/GentleGE) [gentlege96@gmail.com](mailto:gentlege96@gmail.com)
+**Andifiok Ekpo** - [Github](https://github.com/AndyJaloy) [andifiokaloysius@gmail.com](mailto:andifiokaloysius@gmail.com)
